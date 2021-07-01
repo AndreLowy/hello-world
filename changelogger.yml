@@ -1,0 +1,11 @@
+locations:
+  - title
+  - label_name
+  - commit_subject
+terms:
+  - do not merge
+  - ⛔
+include:
+  - all
+  - merge
+tag_pattern: 0.0.0
