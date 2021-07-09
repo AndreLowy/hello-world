@@ -1,6 +1,4 @@
-include:
-  - all
-  - merge
+include: merge
 tag_pattern: ^v\d+\.\d+\.\d+$
 branches:
   - master
